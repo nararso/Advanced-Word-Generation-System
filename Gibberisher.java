@@ -1,8 +1,3 @@
-//CSCI 1913
-//Project 3
-//Negi Ararso
-
-
 public class Gibberisher {
     /**
      * Stores the assorted letter counts for each possible word
