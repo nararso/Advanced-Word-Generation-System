@@ -1,10 +1,3 @@
-
-//CSCI 1913
-//Project 3
-//Negi Ararso
-
-
-
     // storing the current value
 public class TrieNode<T> {
     private T data;
