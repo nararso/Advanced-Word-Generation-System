@@ -1,8 +1,3 @@
-//CSCI 1913
-//Project 3
-//Negi Ararso
-
-
 import java.util.Random;
 public class CharBag {
     private CharBagNode[] bag;
