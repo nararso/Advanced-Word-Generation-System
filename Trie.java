@@ -1,8 +1,3 @@
-//CSCI 1913
-//Project 3
-//Negi Ararso
-
-
 public class Trie<T> {
 
     /** root */
